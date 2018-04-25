@@ -2,35 +2,46 @@
 	path = deps/sparkle
 	url = https://github.com/vslavik/Sparkle.git
 	ignore = untracked
+	shallow = true
 [submodule "deps/winsparkle"]
 	path = deps/winsparkle
 	url = git://github.com/vslavik/winsparkle.git
 	ignore = untracked
+	shallow = true
 [submodule "deps/wx"]
 	path = deps/wx
 	url = https://github.com/vslavik/wxWidgets.git
 	ignore = untracked
+	shallow = true
 [submodule "deps/lucene/LucenePlusPlus"]
 	path = deps/lucene/LucenePlusPlus
 	url = git://github.com/vslavik/LucenePlusPlus.git
+	shallow = true
 [submodule "deps/zlib"]
 	path = deps/zlib
 	url = git://github.com/madler/zlib.git
+	shallow = true
 [submodule "deps/letsmove"]
 	path = deps/letsmove
 	url = git://github.com/potionfactory/LetsMove.git
+	shallow = true
 [submodule "deps/cld2"]
 	path = deps/cld2
 	url = https://github.com/CLD2Owners/cld2.git
+	shallow = true
 [submodule "deps/casablanca"]
 	path = deps/casablanca
     url = https://github.com/Microsoft/cpprestsdk.git
+	shallow = true
 [submodule "deps/AFNetworking"]
 	path = deps/AFNetworking
 	url = https://github.com/vslavik/AFNetworking.git
+	shallow = true
 [submodule "deps/mctrl"]
 	path = deps/mctrl
 	url = https://github.com/mity/mctrl.git
+	shallow = true
 [submodule "src/json"]
 	path = deps/json
 	url = https://github.com/nlohmann/json.git
+	shallow = true
